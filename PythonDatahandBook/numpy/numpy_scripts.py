@@ -34,3 +34,9 @@ L6 = np.arange(0, 20, 2)    # 线性序列
 # np.random.eye()
 
 # np.random.empty()
+
+
+print('------------------------ndarray的属性------------------------')
+
+
+
